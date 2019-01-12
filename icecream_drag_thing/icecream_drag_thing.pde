@@ -6,6 +6,8 @@ int x3=900;
 int y3=100;
 int x4=900;
 int y4=500;
+int xoffset=0;
+int yoffset=0;
 
 
 
