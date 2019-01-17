@@ -27,7 +27,7 @@ void draw(){
   fill(#feaec7);
   ellipse(x3, y3, 200, 200);
   fill(#FFCB85);
-  triangle(500, 700, 600, 400, 400, 400);
+  triangle(500, 900, 600, 600, 400, 600);
   fill(#E84444);
   ellipse(x4, y4, 50, 50);
   if(mousePressed){
